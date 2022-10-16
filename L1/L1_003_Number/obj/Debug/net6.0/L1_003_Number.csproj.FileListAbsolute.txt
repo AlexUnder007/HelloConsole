@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/bin/Debug/net6.0/L1_003_Number
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/bin/Debug/net6.0/L1_003_Number.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/bin/Debug/net6.0/L1_003_Number.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/bin/Debug/net6.0/L1_003_Number.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/bin/Debug/net6.0/L1_003_Number.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/refint/L1_003_Number.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/L1_003_Number.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_003_Number/obj/Debug/net6.0/ref/L1_003_Number.dll
