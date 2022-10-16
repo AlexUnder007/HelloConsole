@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/bin/Debug/net6.0/L1_007_Sint
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/bin/Debug/net6.0/L1_007_Sint.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/bin/Debug/net6.0/L1_007_Sint.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/bin/Debug/net6.0/L1_007_Sint.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/bin/Debug/net6.0/L1_007_Sint.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/refint/L1_007_Sint.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/L1_007_Sint.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_007_Sint/obj/Debug/net6.0/ref/L1_007_Sint.dll
