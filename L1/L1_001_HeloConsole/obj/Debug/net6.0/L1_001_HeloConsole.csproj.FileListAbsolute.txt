@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/bin/Debug/net6.0/L1_001_HeloConsole
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/bin/Debug/net6.0/L1_001_HeloConsole.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/bin/Debug/net6.0/L1_001_HeloConsole.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/bin/Debug/net6.0/L1_001_HeloConsole.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/bin/Debug/net6.0/L1_001_HeloConsole.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/refint/L1_001_HeloConsole.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/L1_001_HeloConsole.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_001_HeloConsole/obj/Debug/net6.0/ref/L1_001_HeloConsole.dll
