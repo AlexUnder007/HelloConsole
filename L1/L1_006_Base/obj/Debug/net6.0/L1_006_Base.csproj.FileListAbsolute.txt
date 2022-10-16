@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/bin/Debug/net6.0/L1_006_Base
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/bin/Debug/net6.0/L1_006_Base.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/bin/Debug/net6.0/L1_006_Base.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/bin/Debug/net6.0/L1_006_Base.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/bin/Debug/net6.0/L1_006_Base.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/refint/L1_006_Base.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/L1_006_Base.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_006_Base/obj/Debug/net6.0/ref/L1_006_Base.dll
