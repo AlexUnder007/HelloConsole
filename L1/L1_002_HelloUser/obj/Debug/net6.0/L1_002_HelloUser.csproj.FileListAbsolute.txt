@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/bin/Debug/net6.0/L1_002_HelloUser
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/bin/Debug/net6.0/L1_002_HelloUser.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/bin/Debug/net6.0/L1_002_HelloUser.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/bin/Debug/net6.0/L1_002_HelloUser.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/bin/Debug/net6.0/L1_002_HelloUser.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/refint/L1_002_HelloUser.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/L1_002_HelloUser.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L1_002_HelloUser/obj/Debug/net6.0/ref/L1_002_HelloUser.dll
