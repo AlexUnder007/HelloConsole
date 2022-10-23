@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009/L2_009.csproj": {}
+    "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009 Массивы/L2_009.csproj": {}
   },
   "projects": {
-    "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009/L2_009.csproj": {
+    "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009 Массивы/L2_009.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009/L2_009.csproj",
+        "projectUniqueName": "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009 Массивы/L2_009.csproj",
         "projectName": "L2_009",
-        "projectPath": "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009/L2_009.csproj",
+        "projectPath": "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009 Массивы/L2_009.csproj",
         "packagesPath": "/Users/aleksandrnazarov/.nuget/packages/",
-        "outputPath": "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009/obj/",
+        "outputPath": "/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_009 Массивы/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksandrnazarov/.nuget/NuGet/NuGet.Config"
