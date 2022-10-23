@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/bin/Debug/net6.0/L2_011 массивы_03
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/bin/Debug/net6.0/L2_011 массивы_03.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/bin/Debug/net6.0/L2_011 массивы_03.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/bin/Debug/net6.0/L2_011 массивы_03.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/bin/Debug/net6.0/L2_011 массивы_03.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/refint/L2_011 массивы_03.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/L2_011 массивы_03.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_011 массивы_03/obj/Debug/net6.0/ref/L2_011 массивы_03.dll
