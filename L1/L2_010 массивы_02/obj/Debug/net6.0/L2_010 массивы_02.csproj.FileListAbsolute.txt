@@ -1,0 +1,15 @@
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/bin/Debug/net6.0/L2_010 массивы_02
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/bin/Debug/net6.0/L2_010 массивы_02.deps.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/bin/Debug/net6.0/L2_010 массивы_02.runtimeconfig.json
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/bin/Debug/net6.0/L2_010 массивы_02.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/bin/Debug/net6.0/L2_010 массивы_02.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.csproj.AssemblyReference.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.AssemblyInfoInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.AssemblyInfo.cs
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.csproj.CoreCompileInputs.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/refint/L2_010 массивы_02.dll
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.pdb
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/L2_010 массивы_02.genruntimeconfig.cache
+/Users/aleksandrnazarov/Desktop/програмирование/The program (L)/L1/L2_010 массивы_02/obj/Debug/net6.0/ref/L2_010 массивы_02.dll
